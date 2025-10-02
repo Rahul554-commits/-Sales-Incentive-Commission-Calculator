@@ -4,6 +4,10 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 
 ---
 
+## 🚀 Live Application  
+👉 [Click Here to Access](http://100.90.199.148:8508)  
+
+---
 
 ## 📋 Table of Contents  
 1. [Getting Started](#1-getting-started)  
@@ -18,9 +22,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 ---
 
 ## 1. Getting Started  
- 
 
-![Login Page](screenshots/01-login.png)  
+![Login Page](screenshots/01-login-page.png)  
 
 ### Demo Accounts  
 - 👑 **Admin**: `admin` / `admin123` (Full system access)  
@@ -36,7 +39,7 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 2. Click **🚀 Login**  
 3. Redirected to the **Admin Dashboard**  
 
-![Admin Dashboard](screenshots/02-dashboard.png)  
+![Admin Dashboard](screenshots/02-admin-dashboard.png)  
 
 ---
 
@@ -48,7 +51,7 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 - 🏆 Product performance (pie chart)  
 - 📋 Recent sales records  
 
-![Dashboard Overview](screenshots/03-user-management.png)  
+![Dashboard Metrics](screenshots/03-dashboard-metrics.png)  
 
 ---
 
@@ -58,7 +61,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 - ✏️ Manage existing users (edit/delete)  
 - 🔑 Assign roles: `admin` or `sales_rep`  
 
-![User Management](screenshots/04-commission-rules.png)  
+![User Management](screenshots/04-user-management.png)  
+![User List](screenshots/05-user-list.png)  
 
 ---
 
@@ -71,7 +75,7 @@ A comprehensive web application for managing sales teams, tracking commissions, 
   - Basic Package → **5%**  
   - Enterprise Solution → **12% (min $10,000)**  
 
-![Commission Rules](screenshots/05-sales-management.png)  
+![Commission Rules](screenshots/06-commission-rules.png)  
 
 ---
 
@@ -80,6 +84,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 - 💼 Add sales records (customer name, product, amount)  
 - 💵 Commission auto-calculated based on rules  
 - 🗂️ View all sales history  
+
+![Sales Management](screenshots/07-sales-management.png)  
 
 ---
 
