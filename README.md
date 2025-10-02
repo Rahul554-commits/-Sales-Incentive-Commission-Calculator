@@ -4,7 +4,6 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 
 ---
 
----
 
 ## 📋 Table of Contents  
 1. [Getting Started](#1-getting-started)  
@@ -18,13 +17,16 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 
 ---
 
-## 1. Getting Started   
+## 1. Getting Started  
+ 
+
+![Login Page](screenshots/01-login.png)  
 
 ### Demo Accounts  
 - 👑 **Admin**: `admin` / `admin123` (Full system access)  
 - 🛠 **Manager**: `manager` / `manager123` (Admin privileges)  
 - 👨‍💼 **Sales Rep**: `salesrep` / `sales123` (Personal sales only)  
-- 👨‍💼 **MY Rep**: `rahul` / `rahul123` (Sample data included)  
+- 👨‍💼 **Demo Rep**: `demo` / `demo123` (Sample data included)  
 
 ---
 
@@ -33,6 +35,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 1. Enter `admin` as username and `admin123` as password  
 2. Click **🚀 Login**  
 3. Redirected to the **Admin Dashboard**  
+
+![Admin Dashboard](screenshots/02-dashboard.png)  
 
 ---
 
@@ -44,6 +48,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 - 🏆 Product performance (pie chart)  
 - 📋 Recent sales records  
 
+![Dashboard Overview](screenshots/03-user-management.png)  
+
 ---
 
 ## 4. User Management  
@@ -51,6 +57,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 - 👥 Create new sales representatives  
 - ✏️ Manage existing users (edit/delete)  
 - 🔑 Assign roles: `admin` or `sales_rep`  
+
+![User Management](screenshots/04-commission-rules.png)  
 
 ---
 
@@ -62,6 +70,8 @@ A comprehensive web application for managing sales teams, tracking commissions, 
   - Standard Package → **8%**  
   - Basic Package → **5%**  
   - Enterprise Solution → **12% (min $10,000)**  
+
+![Commission Rules](screenshots/05-sales-management.png)  
 
 ---
 
@@ -94,5 +104,3 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 ## 📞 Support  
 For any issues, visit the project repository:  
 👉 [GitHub Repository](https://github.com/Rahul554-commits/-Sales-Incentive-Commission-Calculator)  
-
----
