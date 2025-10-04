@@ -4,10 +4,6 @@ A comprehensive web application for managing sales teams, tracking commissions, 
 
 ---
 
-## 🚀 Live Application  
-👉 [Click Here to Access](http://100.90.199.148:8508)  
-
----
 
 ## 📋 Table of Contents  
 1. [Getting Started](#1-getting-started)  
