@@ -1,9 +1,9 @@
-# 📊 Sales Incentive Calculator - Complete User Guide
+# 📊 Sales Incentive Calculator 
 
 A comprehensive web application for managing sales teams, tracking commissions, and monitoring performance with role-based access control.
 
 🚀 **Live Application:**  
-[http://100.90.199.148:8508](http://100.90.199.148:8508)
+[https://rahul554-commits--sales-incentive-commissio-complete-app-d0i75f.streamlit.app/]
 
 ---
 
@@ -32,7 +32,7 @@ Access the Application:
 - Secure authentication system
 - Role-based access control
 
-![Login Page](assets/screenshot-login.png)
+![Login Page](01-login-page.png)
 
 **Demo Accounts Available:**
 - Admin: `admin` / `admin123` (Full system access)
@@ -56,7 +56,7 @@ Access the Application:
 - Real-time sales metrics display
 - Interactive charts and analytics
 
-![Admin Dashboard](assets/screenshot-admin-dashboard.png)
+![Admin Dashboard](02-admin-dashboard.png)
 
 ---
 
@@ -69,7 +69,7 @@ Access the Application:
 - 📈 Sales Trends: Interactive line chart showing sales over time
 - 🏆 Product Performance: Pie chart of sales by product type
 
-![Dashboard Metrics](assets/screenshot-dashboard-metrics.png)
+![Dashboard Metrics](03-dashboard-metrics.png)
 
 Key Metrics Displayed:
 - Real-time sales data across all team members
@@ -91,7 +91,7 @@ Click “👥 User Management” in the sidebar.
 - Role assignment (Admin or Sales Rep)
 - User deletion capabilities
 
-![User Management](assets/screenshot-user-management.png)
+![User Management](04-user-management.png)
 
 **Step 2: Add New Users (Repeat for each salesperson)**
 
@@ -102,13 +102,13 @@ Fill out the form:
 - Role: Select `sales_rep`
 - Click “👤 Add User”
 
-_...continue up to salesperson20_
-
 **User List Features:**
 - Complete user directory with contact information
 - Individual sales statistics per user
 - Creation date tracking
 - Management actions (delete users)
+
+![User List](05-user-list.png)
 
 ---
 
@@ -124,7 +124,7 @@ Click “⚙️ Commission Rules” in the sidebar.
 - Flexible rate configuration
 - Minimum and maximum amount settings
 
-![Commission Rules](assets/screenshot-commission-rules.png)
+![Commission Rules](06-commission-rules.png)
 
 **Step 2: Add Commission Rules**
 
@@ -149,7 +149,7 @@ Click “💼 Sales Management” in the sidebar.
 - Automatic commission calculation
 - Customer and product tracking
 
-![Sales Management](assets/screenshot-sales-management.png)
+![Sales Management](07-sales-management.png)
 
 **Step 2: Add New Sale**
 
@@ -175,7 +175,8 @@ Fill out the sales form:
 - Commission earnings tracking
 - Restricted access to personal data only
 
-![Sales Rep Dashboard](assets/screenshot-sales-rep-dashboard.png)
+<!-- You may add a screenshot here if you have one for the sales rep dashboard,
+e.g., ![Sales Rep Dashboard](08-sales-rep-dashboard.png) -->
 
 ---
 
@@ -193,10 +194,15 @@ Fill out the sales form:
 
 ## 📞 Support & Next Steps
 
+### Support
 
-- **Help & Troubleshooting:** Open an issue in this repository [GitHub Repo](https://github.com/Rahul554-commits/-Sales-Incentive-Commission-Calculator) or email **Rahul Shanigarapu** at **rahulshanigarapu600@gmail.com**.
+For **help and troubleshooting**, please create an issue in this repository or email the maintainer.  
+For **live support**, contact the admin through the application's support section.
 
-
+**Recommended Enhancements:**
+- Bulk User Import (CSV)
+- Sales Reports Export (PDF/Excel)
+- Sales Target Tracking
 
 ### Technical Details
 
@@ -207,19 +213,14 @@ Fill out the sales form:
 
 ---
 
+## 🚀 Quick Start Checklist
 
-
----
-
-## Screenshots
-
-You can find all referenced screenshots in the `/assets` folder:
-- Login
-- Admin Dashboard
-- Dashboard Metrics
-- User Management
-- Commission Rules
-- Sales Management
-- Sales Rep Dashboard
+- [ ] 1. Access application at [http://100.90.199.148:8508](http://100.90.199.148:8508)
+- [ ] 2. Login as admin (`admin` / `admin123`)
+- [ ] 3. Create 20 salespeople via User Management
+- [ ] 4. Set up commission rules for your products
+- [ ] 5. Test adding sales as admin
+- [ ] 6. Login as salesperson and test their experience
+- [ ] 7. Monitor team performance via admin dashboard
 
 ---
