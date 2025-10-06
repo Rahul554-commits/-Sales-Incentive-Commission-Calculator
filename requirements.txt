@@ -1,0 +1,10 @@
+streamlit
+flask
+flask-sqlalchemy
+flask-migrate
+flask-jwt-extended
+pandas
+plotly
+requests
+werkzeug
+statsmodels
