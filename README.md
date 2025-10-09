@@ -32,7 +32,8 @@ Access the Application:
 - Secure authentication system
 - Role-based access control
 
-![Login Page](01-login-page.png)
+![Login Page](screenshots/01-login-page.png)
+
 
 **Demo Accounts Available:**
 - Admin: `admin` / `admin123` (Full system access)
@@ -56,7 +57,7 @@ Access the Application:
 - Real-time sales metrics display
 - Interactive charts and analytics
 
-![Admin Dashboard](02-admin-dashboard.png)
+![Admin Dashboard](screenshots/02-admin-dashboard.png)
 
 ---
 
@@ -69,7 +70,7 @@ Access the Application:
 - 📈 Sales Trends: Interactive line chart showing sales over time
 - 🏆 Product Performance: Pie chart of sales by product type
 
-![Dashboard Metrics](03-dashboard-metrics.png)
+![Dashboard Metrics](screenshots/03-dashboard-metrics.png)
 
 Key Metrics Displayed:
 - Real-time sales data across all team members
@@ -91,7 +92,7 @@ Click “👥 User Management” in the sidebar.
 - Role assignment (Admin or Sales Rep)
 - User deletion capabilities
 
-![User Management](04-user-management.png)
+![User Management](screenshots/04-user-management.png)
 
 **Step 2: Add New Users (Repeat for each salesperson)**
 
@@ -108,7 +109,7 @@ Fill out the form:
 - Creation date tracking
 - Management actions (delete users)
 
-![User List](05-user-list.png)
+![User List](screenshots/05-user-list.png)
 
 ---
 
@@ -124,7 +125,7 @@ Click “⚙️ Commission Rules” in the sidebar.
 - Flexible rate configuration
 - Minimum and maximum amount settings
 
-![Commission Rules](06-commission-rules.png)
+![Commission Rules](screenshots/06-commission-rules.png)
 
 **Step 2: Add Commission Rules**
 
@@ -149,7 +150,7 @@ Click “💼 Sales Management” in the sidebar.
 - Automatic commission calculation
 - Customer and product tracking
 
-![Sales Management](07-sales-management.png)
+![Sales Management](screenshots/07-sales-management.png)
 
 **Step 2: Add New Sale**
 
@@ -176,7 +177,7 @@ Fill out the sales form:
 - Restricted access to personal data only
 
 <!-- You may add a screenshot here if you have one for the sales rep dashboard,
-e.g., ![Sales Rep Dashboard](08-sales-rep-dashboard.png) -->
+e.g., ![Sales Rep Dashboard](screenshots/08-sales-rep-dashboard.png) -->
 
 ---
 
